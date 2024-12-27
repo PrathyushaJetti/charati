@@ -81,19 +81,19 @@ include('../includes/header.php')
 
                     <div class="col-12 col-md-4 mb-3">
                         <div class="service-image">
-                            <img src="https://picsum.photos/280/280" alt="Image 1">
+                            <img src="../image/supplying-ration-1.webp" alt="supplying ration">
 
                         </div>
                     </div>
                     <div class="col-12 col-md-4 mb-3">
                         <div class="service-image">
-                            <img src="https://picsum.photos/280/280" alt="Image 2">
+                        <img src="../image/supplying-ration-2.webp" alt="supplying ration">
 
                         </div>
                     </div>
                     <div class="col-12 col-md-4 mb-3">
                         <div class="service-image">
-                            <img src="https://picsum.photos/280/280" alt="Image 3">
+                        <img src="../image/supplying-ration-3.webp" alt="supplying ration">
 
                         </div>
                     </div>
